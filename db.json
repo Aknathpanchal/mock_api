@@ -20,7 +20,15 @@
     }
   ],
 
-"auth":[],
+"auth":[{
+  "login":[],
+"register":[]
+}
+  
+
+
+
+],
 
   "users": [
     {

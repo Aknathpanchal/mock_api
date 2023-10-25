@@ -20,7 +20,7 @@
     }
   ],
 
-"courses":[],
+"auth":[],
 
   "users": [
     {
@@ -614,7 +614,7 @@
       "id": 54
     },
     {
-      "username": "alibaba",
+      "username": "Alibaba",
       "password": "$2b$10$98ed6eR6qhTXcvfZdHT1reBbgRATO37G45hFP.o1BkS0bNtXQBY5i",
       "email": "ali@mail.com",
       "firstname": "ali",
